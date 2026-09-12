@@ -1,4 +1,3 @@
-# BatchTube_GUI
 # BatchTube V2 - Advanced GUI for yt-dlp
 
 ## 🚀 About the Project
